@@ -1,1 +1,2 @@
-# pradicas-pds1-ifsc
+# pratica-pds1-ifsc
+
